@@ -1,3 +1,5 @@
+// all the "" are in a different format than what SAS accepts. Have to change them while running.
+
 dm ‘log;clear;output;clear;’;
 /* Desired location on PC */
 libname myLib “H:\Data\WRDSData”;
